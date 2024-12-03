@@ -1,7 +1,7 @@
 # rocket2023
 
 ## Launch
-![gif-launch-rocket](https://github.com/kafiulshabbir/rocket2023/blob/main/Gallery/launch-slow-mo.gif)
+![gif-launch-rocket](https://github.com/bluekafi/rocket2023/blob/main/Gallery/launch-slow-mo.gif)
 
 
 ## Characterstics
@@ -41,4 +41,4 @@ Alexander: purchase of engine, trajectory determination.
 Александр Арутюнян
 
 ## Team
-![group-photo-rocket-launch](https://github.com/kafiulshabbir/rocket2023/blob/main/Gallery/group-photo.jpg)
+![group-photo-rocket-launch](https://github.com/bluekafi/rocket2023/blob/main/Gallery/group-photo.jpg)
